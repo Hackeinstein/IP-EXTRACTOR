@@ -1,0 +1,815 @@
+13.249.111.164  258 ms          server-13-249-111-164.atl50.r.cloudfront.net25,80,587       
+13.32.101.152   163 ms          server-13-32-101-152.fra60.r.cloudfront.net80              
+13.227.219.224  164 ms          server-13-227-219-224.ams54.r.cloudfront.net80              
+13.111.185.227  266 ms          pages.bookdepoemail.com 80              
+13.227.156.45   174 ms          server-13-227-156-45.muc51.r.cloudfront.net80              
+13.225.227.124  236 ms          server-13-225-227-124.jfk51.r.cloudfront.net80              
+13.224.113.227  161 ms          server-13-224-113-227.mad50.r.cloudfront.net80              
+13.33.163.59    261 ms          server-13-33-163-59.yto50.r.cloudfront.net80              
+13.110.0.208    276 ms          dcl2-ncg0-phx3.na80-ph2.salesforce.com80              
+13.225.238.238  163 ms          server-13-225-238-238.bru50.r.cloudfront.net80              
+13.227.46.188   252 ms          server-13-227-46-188.msp50.r.cloudfront.net80              
+13.225.42.70    263 ms          server-13-225-42-70.dfw50.r.cloudfront.net80              
+13.227.219.178  174 ms          server-13-227-219-178.ams54.r.cloudfront.net80              
+13.111.46.207   271 ms          view.email.footwearnews.com80              
+13.32.13.33     181 ms          server-13-32-13-33.vie50.r.cloudfront.net80              
+13.227.14.57    231 ms          server-13-227-14-57.bah53.r.cloudfront.net80              
+13.224.26.233   291 ms          server-13-224-26-233.sea19.r.cloudfront.net80              
+13.32.214.32    244 ms          server-13-32-214-32.atl56.r.cloudfront.net80              
+13.224.203.102  221 ms          server-13-224-203-102.phl50.r.cloudfront.net80              
+13.227.34.116   243 ms          server-13-227-34-116.msp50.r.cloudfront.net80              
+13.224.208.193  228 ms          server-13-224-208-193.phl50.r.cloudfront.net80              
+13.227.61.21    394 ms          server-13-227-61-21.nrt20.r.cloudfront.net80              
+13.225.20.213   163 ms          server-13-225-20-213.bru50.r.cloudfront.net80              
+13.32.35.100    399 ms          server-13-32-35-100.blr50.r.cloudfront.net80              
+13.32.48.226    430 ms          server-13-32-48-226.nrt57.r.cloudfront.net80              
+13.249.164.216  391 ms          server-13-249-164-216.nrt12.r.cloudfront.net80              
+13.225.64.6     238 ms          server-13-225-64-6.ewr53.r.cloudfront.net80              
+13.226.206.3    259 ms          server-13-226-206-3.dfw55.r.cloudfront.net80              
+13.33.236.198   198 ms          server-13-33-236-198.mad51.r.cloudfront.net80              
+13.249.192.32   311 ms          server-13-249-192-32.slc50.r.cloudfront.net80              
+13.214.136.155  362 ms          ec2-13-214-136-155.ap-southeast-1.compute.amazonaws.com80,465          
+13.224.159.9    408 ms          server-13-224-159-9.hkg54.r.cloudfront.net80              
+13.56.252.254   291 ms          ec2-13-56-252-254.us-west-1.compute.amazonaws.com80              
+13.209.54.67    401 ms          ec2-13-209-54-67.ap-northeast-2.compute.amazonaws.com80              
+13.126.171.77   314 ms          ec2-13-126-171-77.ap-south-1.compute.amazonaws.com80              
+13.233.122.207  283 ms          ec2-13-233-122-207.ap-south-1.compute.amazonaws.com80              
+13.35.123.5     290 ms          server-13-35-123-5.sfo5.r.cloudfront.net80              
+13.126.68.13    333 ms          ec2-13-126-68-13.ap-south-1.compute.amazonaws.com80              
+13.226.158.36   250 ms          server-13-226-158-36.dus51.r.cloudfront.net80              
+13.112.69.217   385 ms          ec2-13-112-69-217.ap-northeast-1.compute.amazonaws.com80              
+13.226.26.88    324 ms          server-13-226-26-88.ewr53.r.cloudfront.net80              
+13.226.11.52    308 ms          server-13-226-11-52.ord51.r.cloudfront.net80              
+13.109.128.147  289 ms          [n/a]                   80              
+13.33.116.134   197 ms          server-13-33-116-134.sea84.r.cloudfront.net80              
+13.32.230.115   246 ms          server-13-32-230-115.atl56.r.cloudfront.net80              
+13.212.253.174  410 ms          ec2-13-212-253-174.ap-southeast-1.compute.amazonaws.com80              
+13.54.33.114    436 ms          ec2-13-54-33-114.ap-southeast-2.compute.amazonaws.com80              
+13.124.51.104   398 ms          ec2-13-124-51-104.ap-northeast-2.compute.amazonaws.com80              
+13.210.109.237  432 ms          ec2-13-210-109-237.ap-southeast-2.compute.amazonaws.com80              
+13.224.91.253   184 ms          server-13-224-91-253.zrh50.r.cloudfront.net80              
+13.228.79.73    332 ms          ec2-13-228-79-73.ap-southeast-1.compute.amazonaws.com80              
+13.33.131.106   418 ms          server-13-33-131-106.gig51.r.cloudfront.net80              
+13.249.11.202   187 ms          server-13-249-11-202.cdg53.r.cloudfront.net80              
+13.56.118.7     342 ms          ec2-13-56-118-7.us-west-1.compute.amazonaws.com80              
+13.32.36.252    369 ms          server-13-32-36-252.blr50.r.cloudfront.net80              
+13.35.85.46     232 ms          server-13-35-85-46.bos50.r.cloudfront.net80              
+13.54.93.140    479 ms          ec2-13-54-93-140.ap-southeast-2.compute.amazonaws.com80              
+13.58.180.52    279 ms          ec2-13-58-180-52.us-east-2.compute.amazonaws.com80              
+13.35.173.98    292 ms          server-13-35-173-98.fjr50.r.cloudfront.net80              
+13.224.115.165  180 ms          server-13-224-115-165.mad50.r.cloudfront.net80              
+13.225.239.14   174 ms          server-13-225-239-14.bru50.r.cloudfront.net80              
+13.110.33.175   236 ms          dcl4-ncg0-iad3.na142-ia2.my.salesforce.com80              
+13.232.188.38   309 ms          ec2-13-232-188-38.ap-south-1.compute.amazonaws.com80              
+13.228.133.227  396 ms          ec2-13-228-133-227.ap-southeast-1.compute.amazonaws.com80              
+13.72.20.218    230 ms          [n/a]                   80              
+13.238.136.132  433 ms          ec2-13-238-136-132.ap-southeast-2.compute.amazonaws.com80              
+13.127.154.192  341 ms          ec2-13-127-154-192.ap-south-1.compute.amazonaws.com80              
+13.248.243.71   190 ms          aca456ea3dcfff5a6.awsglobalaccelerator.com80              
+13.35.20.43     381 ms          server-13-35-20-43.sin5.r.cloudfront.net80              
+13.225.2.46     365 ms          server-13-225-2-46.sin52.r.cloudfront.net80              
+13.249.102.145  318 ms          server-13-249-102-145.atl50.r.cloudfront.net80              
+13.127.240.145  301 ms          ec2-13-127-240-145.ap-south-1.compute.amazonaws.com80              
+13.32.154.171   271 ms          server-13-32-154-171.iad66.r.cloudfront.net80              
+13.233.217.237  285 ms          ec2-13-233-217-237.ap-south-1.compute.amazonaws.com80              
+13.111.186.8    265 ms          click.mailsf.coinpayments.net80              
+13.35.99.191    296 ms          server-13-35-99-191.lax3.r.cloudfront.net80              
+13.224.145.225  377 ms          server-13-224-145-225.nrt51.r.cloudfront.net80              
+13.33.35.25     356 ms          server-13-33-35-25.sin2.r.cloudfront.net80              
+13.33.165.191   273 ms          server-13-33-165-191.yto50.r.cloudfront.net80              
+13.110.124.69   213 ms          [n/a]                   80              
+13.111.149.253  267 ms          view.points-mail.com    80              
+13.33.75.92     221 ms          [n/a]                   80              
+13.92.255.74    236 ms          [n/a]                   80              
+13.124.120.182  396 ms          ec2-13-124-120-182.ap-northeast-2.compute.amazonaws.com80              
+13.109.196.143  257 ms          [n/a]                   80              
+13.249.39.42    234 ms          [n/a]                   80              
+13.95.86.223    164 ms          [n/a]                   80              
+13.111.23.173   246 ms          [n/a]                   80              
+13.109.165.232  250 ms          [n/a]                   80              
+13.249.180.154  224 ms          server-13-249-180-154.bos50.r.cloudfront.net80              
+13.32.168.48    151 ms          server-13-32-168-48.lhr62.r.cloudfront.net80              
+13.225.27.47    176 ms          server-13-225-27-47.cdg3.r.cloudfront.net80              
+13.225.150.149  297 ms          server-13-225-150-149.lax3.r.cloudfront.net80              
+13.64.133.201   288 ms          [n/a]                   80              
+13.227.120.92   373 ms          server-13-227-120-92.gru1.r.cloudfront.net80              
+13.109.214.3    277 ms          [n/a]                   80              
+13.224.195.49   169 ms          server-13-224-195-49.fra2.r.cloudfront.net80              
+13.36.190.145   178 ms          [n/a]                   80              
+13.32.196.204   236 ms          [n/a]                   80              
+13.248.161.86   190 ms          a7351fd71eb40aee1.awsglobalaccelerator.com80              
+13.212.189.208  372 ms          [n/a]                   80              
+13.227.143.63   283 ms          server-13-227-143-63.bom50.r.cloudfront.net80              
+13.210.244.125  434 ms          ec2-13-210-244-125.ap-southeast-2.compute.amazonaws.com80              
+13.238.241.233  432 ms          [n/a]                   80              
+13.224.129.145  199 ms          [n/a]                   80              
+13.227.183.221  426 ms          server-13-227-183-221.scl50.r.cloudfront.net80              
+13.208.207.57   386 ms          [n/a]                   80              
+13.227.203.187  405 ms          [n/a]                   80              
+13.231.222.14   379 ms          [n/a]                   80              
+13.225.44.117   297 ms          server-13-225-44-117.dfw50.r.cloudfront.net80              
+13.249.110.245  239 ms          [n/a]                   80              
+13.225.84.227   174 ms          server-13-225-84-227.fra2.r.cloudfront.net80              
+13.224.209.232  225 ms          server-13-224-209-232.phl50.r.cloudfront.net80              
+13.224.100.129  211 ms          [n/a]                   80              
+13.109.137.210  287 ms          [n/a]                   80              
+13.54.225.137   426 ms          [n/a]                   80              
+13.251.254.67   391 ms          ec2-13-251-254-67.ap-southeast-1.compute.amazonaws.com80              
+13.33.11.221    412 ms          server-13-33-11-221.nrt57.r.cloudfront.net80              
+13.124.14.79    398 ms          ec2-13-124-14-79.ap-northeast-2.compute.amazonaws.com80              
+13.232.163.91   282 ms          ec2-13-232-163-91.ap-south-1.compute.amazonaws.com80              
+13.55.123.93    457 ms          ec2-13-55-123-93.ap-southeast-2.compute.amazonaws.com80              
+13.251.82.175   371 ms          [n/a]                   80              
+13.228.133.19   364 ms          ec2-13-228-133-19.ap-southeast-1.compute.amazonaws.com80              
+13.64.62.178    307 ms          [n/a]                   80              
+13.124.37.218   389 ms          [n/a]                   80              
+13.127.31.241   322 ms          ec2-13-127-31-241.ap-south-1.compute.amazonaws.com80              
+13.125.249.237  393 ms          [n/a]                   80              
+13.32.109.205   291 ms          server-13-32-109-205.phx50.r.cloudfront.net80              
+13.57.189.53    281 ms          ec2-13-57-189-53.us-west-1.compute.amazonaws.com80              
+13.236.158.72   420 ms          ec2-13-236-158-72.ap-southeast-2.compute.amazonaws.com80              
+13.249.230.219  744 ms          server-13-249-230-219.hyd50.r.cloudfront.net80              
+13.59.164.151   246 ms          ec2-13-59-164-151.us-east-2.compute.amazonaws.com80              
+13.32.48.130    431 ms          server-13-32-48-130.nrt57.r.cloudfront.net80              
+13.55.247.43    417 ms          [n/a]                   80              
+13.57.54.178    310 ms          [n/a]                   80              
+13.111.178.228  308 ms          [n/a]                   80              
+13.225.73.139   247 ms          [n/a]                   80              
+13.249.191.101  254 ms          server-13-249-191-101.bos50.r.cloudfront.net80              
+13.224.92.107   193 ms          server-13-224-92-107.zrh50.r.cloudfront.net80              
+13.233.130.192  333 ms          [n/a]                   80              
+13.235.76.235   323 ms          ec2-13-235-76-235.ap-south-1.compute.amazonaws.com80              
+13.127.6.121    325 ms          ec2-13-127-6-121.ap-south-1.compute.amazonaws.com80              
+13.75.138.32    429 ms          [n/a]                   80              
+13.76.46.173    404 ms          [n/a]                   80              
+13.226.195.31   325 ms          [n/a]                   80              
+13.249.46.238   252 ms          [n/a]                   80              
+13.48.196.101   213 ms          [n/a]                   80              
+13.58.30.175    308 ms          [n/a]                   80              
+13.109.187.72   295 ms          [n/a]                   80              
+13.226.41.59    316 ms          [n/a]                   80              
+13.225.212.58   232 ms          server-13-225-212-58.ewr50.r.cloudfront.net80              
+13.82.213.254   330 ms          [n/a]                   80              
+13.226.19.117   246 ms          [n/a]                   80              
+13.92.31.193    291 ms          [n/a]                   80              
+13.126.255.101  283 ms          ec2-13-126-255-101.ap-south-1.compute.amazonaws.com80              
+13.226.205.1    268 ms          [n/a]                   80              
+13.110.249.154  230 ms          dcl7-ncg1-c5-iad4.cs209-ia4.my.salesforce.com80              
+13.224.55.39    330 ms          [n/a]                   80              
+13.71.100.200   342 ms          [n/a]                   80              
+13.76.194.14    416 ms          [n/a]                   80              
+13.126.108.26   319 ms          ec2-13-126-108-26.ap-south-1.compute.amazonaws.com80,465          
+13.224.50.54    340 ms          [n/a]                   80              
+13.66.52.180    298 ms          [n/a]                   80              
+13.244.103.172  375 ms          [n/a]                   80              
+13.33.71.7      316 ms          [n/a]                   80              
+13.109.129.178  295 ms          [n/a]                   80              
+13.125.168.115  454 ms          [n/a]                   80              
+13.224.111.70   213 ms          [n/a]                   80              
+13.229.122.123  434 ms          [n/a]                   80              
+13.33.32.83     385 ms          [n/a]                   80              
+13.249.186.87   241 ms          [n/a]                   80              
+13.53.108.119   200 ms          [n/a]                   80              
+13.49.208.112   206 ms          ec2-13-49-208-112.eu-north-1.compute.amazonaws.com80              
+13.95.12.154    180 ms          [n/a]                   80              
+13.229.90.207   414 ms          [n/a]                   80              
+13.225.44.19    263 ms          server-13-225-44-19.dfw50.r.cloudfront.net80              
+13.35.172.61    283 ms          server-13-35-172-61.fjr50.r.cloudfront.net80              
+13.33.12.93     262 ms          server-13-33-12-93.mia3.r.cloudfront.net80              
+13.126.230.20   635 ms          ec2-13-126-230-20.ap-south-1.compute.amazonaws.com80              
+13.227.192.189  421 ms          server-13-227-192-189.scl50.r.cloudfront.net80              
+13.126.22.159   325 ms          ec2-13-126-22-159.ap-south-1.compute.amazonaws.com80              
+13.226.80.33    488 ms          [n/a]                   80              
+13.35.211.82    393 ms          server-13-35-211-82.hyd50.r.cloudfront.net80              
+13.109.134.95   284 ms          [n/a]                   80              
+13.115.22.120   427 ms          [n/a]                   80              
+13.249.197.115  307 ms          [n/a]                   80              
+13.226.104.21   784 ms          server-13-226-104-21.syd4.r.cloudfront.net80              
+13.228.205.183  336 ms          ec2-13-228-205-183.ap-southeast-1.compute.amazonaws.com80              
+13.225.121.154  393 ms          [n/a]                   80              
+13.226.191.222  266 ms          [n/a]                   80              
+13.32.36.228    396 ms          [n/a]                   80              
+13.33.59.114    262 ms          [n/a]                   80              
+13.249.210.86   404 ms          [n/a]                   80              
+13.35.53.172    418 ms          [n/a]                   80              
+13.235.220.212  337 ms          ec2-13-235-220-212.ap-south-1.compute.amazonaws.com80              
+13.227.232.100  298 ms          server-13-227-232-100.bom51.r.cloudfront.net80              
+13.211.54.21    429 ms          [n/a]                   80              
+13.88.44.42     305 ms          [n/a]                   80              
+13.78.140.118   286 ms          [n/a]                   80              
+13.249.189.228  255 ms          server-13-249-189-228.bos50.r.cloudfront.net80              
+13.88.178.9     319 ms          [n/a]                   80              
+13.249.137.26   287 ms          server-13-249-137-26.ord51.r.cloudfront.net80              
+13.93.111.44    213 ms          [n/a]                   80              
+13.33.160.104   330 ms          server-13-33-160-104.yto50.r.cloudfront.net80              
+13.225.254.187  214 ms          [n/a]                   80              
+13.35.145.253   439 ms          [n/a]                   80              
+13.35.129.117   377 ms          server-13-35-129-117.del54.r.cloudfront.net80              
+13.230.214.91   415 ms          ec2-13-230-214-91.ap-northeast-1.compute.amazonaws.com80              
+13.32.154.139   236 ms          [n/a]                   80              
+13.227.235.9    295 ms          server-13-227-235-9.bom51.r.cloudfront.net80              
+13.94.230.185   198 ms          [n/a]                   80              
+13.124.56.152   409 ms          ec2-13-124-56-152.ap-northeast-2.compute.amazonaws.com80              
+13.244.159.45   324 ms          ec2-13-244-159-45.af-south-1.compute.amazonaws.com80              
+13.224.186.103  174 ms          server-13-224-186-103.fra2.r.cloudfront.net80              
+13.244.235.121  328 ms          [n/a]                   80              
+13.249.180.168  232 ms          server-13-249-180-168.bos50.r.cloudfront.net80              
+13.81.202.106   178 ms          [n/a]                   80              
+13.126.53.1     288 ms          [n/a]                   80              
+13.234.55.108   308 ms          [n/a]                   80              
+13.94.118.136   183 ms          [n/a]                   80              
+13.249.58.152   611 ms          server-13-249-58-152.iah50.r.cloudfront.net80              
+13.115.100.186  386 ms          [n/a]                   80              
+13.52.132.95    316 ms          [n/a]                   80              
+13.111.71.45    292 ms          [n/a]                   80              
+13.126.95.216   317 ms          [n/a]                   80              
+13.212.58.10    359 ms          [n/a]                   80              
+13.35.96.211    305 ms          [n/a]                   80              
+13.59.223.132   261 ms          ec2-13-59-223-132.us-east-2.compute.amazonaws.com80              
+13.111.186.69   290 ms          [n/a]                   80              
+13.213.61.35    379 ms          [n/a]                   80              
+13.109.165.98   287 ms          [n/a]                   80              
+13.250.66.171   391 ms          [n/a]                   80              
+13.238.42.5     427 ms          [n/a]                   80              
+13.248.174.201  185 ms          a91eccc8bd3af6ff4.awsglobalaccelerator.com80,465          
+13.249.212.24   531 ms          server-13-249-212-24.blr50.r.cloudfront.net80              
+13.235.113.148  655 ms          [n/a]                   80              
+13.231.99.21    390 ms          ec2-13-231-99-21.ap-northeast-1.compute.amazonaws.com80              
+13.48.121.142   200 ms          ec2-13-48-121-142.eu-north-1.compute.amazonaws.com80              
+13.35.148.151   440 ms          server-13-35-148-151.syd1.r.cloudfront.net80              
+13.248.164.53   214 ms          a69a6d658d31a1eee.awsglobalaccelerator.com80              
+13.236.217.76   455 ms          [n/a]                   80              
+13.126.18.116   288 ms          [n/a]                   80              
+13.226.223.74   324 ms          server-13-226-223-74.lax50.r.cloudfront.net80              
+13.225.39.226   161 ms          [n/a]                   80              
+13.55.210.236   434 ms          ec2-13-55-210-236.ap-southeast-2.compute.amazonaws.com80              
+13.227.230.63   871 ms          server-13-227-230-63.sin52.r.cloudfront.net80              
+13.81.217.96    183 ms          [n/a]                   80              
+13.227.38.121   269 ms          server-13-227-38-121.msp50.r.cloudfront.net80              
+13.37.211.16    198 ms          [n/a]                   80              
+13.69.190.124   198 ms          [n/a]                   80              
+13.249.67.126   289 ms          server-13-249-67-126.dfw53.r.cloudfront.net80              
+13.225.246.25   205 ms          [n/a]                   80              
+13.225.29.178   195 ms          server-13-225-29-178.cdg3.r.cloudfront.net80              
+13.224.78.56    244 ms          server-13-224-78-56.man50.r.cloudfront.net80              
+13.32.144.29    170 ms          [n/a]                   80              
+13.35.17.217    413 ms          server-13-35-17-217.sin5.r.cloudfront.net80              
+13.209.104.221  476 ms          ec2-13-209-104-221.ap-northeast-2.compute.amazonaws.com80              
+13.225.215.5    238 ms          server-13-225-215-5.ewr50.r.cloudfront.net80              
+13.248.197.136  186 ms          [n/a]                   80              
+13.111.119.87   261 ms          [n/a]                   80              
+13.32.16.161    333 ms          server-13-32-16-161.fra56.r.cloudfront.net80              
+13.58.110.99    260 ms          [n/a]                   80              
+13.110.10.28    246 ms          dcl5-ncg0-iad3.cs4-ia2.my.salesforce.com80              
+13.212.39.98    385 ms          ec2-13-212-39-98.ap-southeast-1.compute.amazonaws.com80              
+13.225.208.197  225 ms          [n/a]                   80              
+13.81.0.14      171 ms          [n/a]                   80              
+13.114.60.63    741 ms          ec2-13-114-60-63.ap-northeast-1.compute.amazonaws.com80              
+13.224.111.175  202 ms          server-13-224-111-175.mad50.r.cloudfront.net80              
+13.53.53.108    211 ms          [n/a]                   80              
+13.232.98.206   312 ms          [n/a]                   80              
+13.249.8.56     225 ms          server-13-249-8-56.cdg53.r.cloudfront.net80              
+13.92.183.3     237 ms          [n/a]                   80              
+13.125.187.19   404 ms          [n/a]                   80              
+13.32.47.194    206 ms          server-13-32-47-194.fra60.r.cloudfront.net80              
+13.227.8.117    266 ms          server-13-227-8-117.bah53.r.cloudfront.net80              
+13.236.142.174  750 ms          [n/a]                   80              
+13.77.220.125   296 ms          [n/a]                   80              
+13.109.196.204  251 ms          [n/a]                   80              
+13.115.34.91    387 ms          [n/a]                   80              
+13.224.18.17    392 ms          [n/a]                   80              
+13.33.212.245   433 ms          server-13-33-212-245.nrt57.r.cloudfront.net80              
+13.225.12.83    228 ms          server-13-225-12-83.lis50.r.cloudfront.net80              
+13.213.0.142    376 ms          [n/a]                   80              
+13.93.153.132   318 ms          [n/a]                   80              
+13.110.199.2    240 ms          [n/a]                   80              
+13.51.54.253    200 ms          [n/a]                   80              
+13.211.185.136  439 ms          ec2-13-211-185-136.ap-southeast-2.compute.amazonaws.com80              
+13.229.0.45     700 ms          ec2-13-229-0-45.ap-southeast-1.compute.amazonaws.com80              
+13.250.46.228   381 ms          [n/a]                   80              
+13.109.193.47   267 ms          [n/a]                   80              
+13.80.240.234   169 ms          [n/a]                   80              
+13.111.134.144  242 ms          [n/a]                   80              
+13.249.69.8     267 ms          [n/a]                   80              
+13.56.175.136   302 ms          [n/a]                   80              
+13.33.214.133   604 ms          server-13-33-214-133.nrt57.r.cloudfront.net80              
+13.58.210.89    270 ms          [n/a]                   80              
+13.226.2.190    265 ms          server-13-226-2-190.tlv50.r.cloudfront.net80              
+13.244.207.183  372 ms          ec2-13-244-207-183.af-south-1.compute.amazonaws.com80              
+13.227.179.248  294 ms          server-13-227-179-248.bom51.r.cloudfront.net80              
+13.230.246.110  737 ms          [n/a]                   80              
+13.76.134.114   308 ms          [n/a]                   80              
+13.33.169.187   1057 ms         [n/a]                   80              
+13.249.83.118   295 ms          server-13-249-83-118.ord52.r.cloudfront.net80              
+13.32.136.142   544 ms          server-13-32-136-142.per50.r.cloudfront.net80              
+13.35.133.254   424 ms          server-13-35-133-254.del54.r.cloudfront.net80              
+13.124.231.154  932 ms          ec2-13-124-231-154.ap-northeast-2.compute.amazonaws.com80              
+13.33.125.53    785 ms          server-13-33-125-53.cph50.r.cloudfront.net80              
+13.67.114.189   339 ms          [n/a]                   80              
+13.78.124.84    408 ms          [n/a]                   80              
+13.48.43.222    212 ms          [n/a]                   80              
+13.226.138.228  298 ms          server-13-226-138-228.yto50.r.cloudfront.net80              
+13.94.207.181   397 ms          [n/a]                   80              
+13.115.71.144   607 ms          ec2-13-115-71-144.ap-northeast-1.compute.amazonaws.com80              
+13.224.20.140   500 ms          server-13-224-20-140.del54.r.cloudfront.net80              
+13.224.231.208  162 ms          [n/a]                   80              
+13.224.50.177   1056 ms         server-13-224-50-177.phx50.r.cloudfront.net80              
+13.57.132.6     291 ms          [n/a]                   80              
+13.225.61.17    297 ms          server-13-225-61-17.ewr53.r.cloudfront.net80              
+13.111.216.227  273 ms          click-agency-s6-701.productiontestzone.et.yellsatcloud.com80              
+13.125.154.189  607 ms          ec2-13-125-154-189.ap-northeast-2.compute.amazonaws.com80              
+13.224.129.217  261 ms          server-13-224-129-217.lhr3.r.cloudfront.net80              
+13.231.46.194   391 ms          [n/a]                   80              
+13.33.64.235    400 ms          server-13-33-64-235.phx50.r.cloudfront.net80              
+13.112.143.76   462 ms          ec2-13-112-143-76.ap-northeast-1.compute.amazonaws.com80              
+13.226.227.176  328 ms          server-13-226-227-176.lax50.r.cloudfront.net80              
+13.224.51.95    341 ms          server-13-224-51-95.phx50.r.cloudfront.net80              
+13.114.95.245   402 ms          [n/a]                   80              
+13.249.32.41    992 ms          server-13-249-32-41.iad89.r.cloudfront.net80              
+13.126.203.81   383 ms          ec2-13-126-203-81.ap-south-1.compute.amazonaws.com80              
+13.224.201.52   266 ms          server-13-224-201-52.phl50.r.cloudfront.net80              
+13.227.70.168   418 ms          [n/a]                   80              
+13.71.115.82    1117 ms         [n/a]                   80,465          
+13.32.65.91     288 ms          [n/a]                   80              
+13.239.61.232   1199 ms         ec2-13-239-61-232.ap-southeast-2.compute.amazonaws.com80              
+13.33.254.170   302 ms          server-13-33-254-170.den50.r.cloudfront.net80              
+13.238.186.136  436 ms          [n/a]                   80              
+13.244.158.147  311 ms          [n/a]                   80              
+13.224.253.34   366 ms          server-13-224-253-34.sin52.r.cloudfront.net80              
+13.248.194.41   182 ms          [n/a]                   80              
+13.32.42.24     333 ms          [n/a]                   80              
+13.33.133.13    375 ms          [n/a]                   80              
+13.35.134.157   769 ms          [n/a]                   80              
+13.32.218.225   182 ms          [n/a]                   80              
+13.80.31.250    179 ms          [n/a]                   80              
+13.32.173.246   187 ms          [n/a]                   80              
+13.228.227.134  421 ms          ec2-13-228-227-134.ap-southeast-1.compute.amazonaws.com80              
+13.248.217.254  211 ms          [n/a]                   80              
+13.212.19.250   429 ms          [n/a]                   80              
+13.36.180.53    198 ms          [n/a]                   80              
+13.225.154.154  423 ms          server-13-225-154-154.nrt12.r.cloudfront.net80              
+13.225.102.186  355 ms          [n/a]                   80              
+13.79.150.69    202 ms          [n/a]                   80              
+13.224.74.203   300 ms          [n/a]                   80              
+13.126.152.37   700 ms          ec2-13-126-152-37.ap-south-1.compute.amazonaws.com80              
+13.225.73.47    1377 ms         server-13-225-73-47.fra2.r.cloudfront.net80              
+13.126.80.190   347 ms          ec2-13-126-80-190.ap-south-1.compute.amazonaws.com80,465          
+13.32.119.35    696 ms          server-13-32-119-35.fra60.r.cloudfront.net80              
+13.32.193.158   272 ms          [n/a]                   80              
+13.227.104.187  416 ms          server-13-227-104-187.gru50.r.cloudfront.net80              
+13.224.75.72    249 ms          server-13-224-75-72.man50.r.cloudfront.net80              
+13.49.247.177   290 ms          ec2-13-49-247-177.eu-north-1.compute.amazonaws.com80              
+13.57.245.243   328 ms          [n/a]                   80              
+13.226.179.140  298 ms          [n/a]                   80              
+13.58.109.78    622 ms          ec2-13-58-109-78.us-east-2.compute.amazonaws.com80              
+13.114.175.201  481 ms          [n/a]                   80              
+13.227.92.48    533 ms          [n/a]                   80              
+13.238.62.135   1125 ms         [n/a]                   80              
+13.113.28.54    518 ms          [n/a]                   80              
+13.33.239.149   278 ms          server-13-33-239-149.mad51.r.cloudfront.net80              
+13.110.128.28   302 ms          [n/a]                   80              
+13.110.9.211    283 ms          [n/a]                   80              
+13.48.38.30     273 ms          ec2-13-48-38-30.eu-north-1.compute.amazonaws.com80              
+13.94.47.87     399 ms          [n/a]                   80              
+13.213.194.61   385 ms          [n/a]                   80              
+13.127.42.106   364 ms          ec2-13-127-42-106.ap-south-1.compute.amazonaws.com80              
+13.33.247.19    204 ms          server-13-33-247-19.hel50.r.cloudfront.net80              
+13.78.43.70     418 ms          [n/a]                   80              
+13.236.42.150   451 ms          [n/a]                   80              
+13.33.182.120   519 ms          server-13-33-182-120.maa50.r.cloudfront.net80              
+13.115.56.143   456 ms          [n/a]                   80              
+13.248.237.137  254 ms          [n/a]                   80              
+13.51.214.109   305 ms          ec2-13-51-214-109.eu-north-1.compute.amazonaws.com80              
+13.33.85.180    257 ms          [n/a]                   80              
+13.76.33.240    475 ms          [n/a]                   80              
+13.124.75.224   473 ms          ec2-13-124-75-224.ap-northeast-2.compute.amazonaws.com80              
+13.48.54.109    294 ms          ec2-13-48-54-109.eu-north-1.compute.amazonaws.com80              
+13.35.79.96     246 ms          server-13-35-79-96.bos50.r.cloudfront.net80              
+13.250.205.55   411 ms          [n/a]                   80              
+13.233.203.64   1071 ms         ec2-13-233-203-64.ap-south-1.compute.amazonaws.com80              
+13.55.51.212    807 ms          ec2-13-55-51-212.ap-southeast-2.compute.amazonaws.com80              
+13.91.81.219    403 ms          [n/a]                   80              
+13.249.37.253   303 ms          server-13-249-37-253.iad89.r.cloudfront.net80              
+13.114.50.2     547 ms          ec2-13-114-50-2.ap-northeast-1.compute.amazonaws.com80              
+13.57.207.40    296 ms          [n/a]                   80              
+13.228.159.14   423 ms          [n/a]                   80              
+13.81.68.191    224 ms          [n/a]                   80              
+13.73.25.28     456 ms          [n/a]                   80              
+13.210.48.133   469 ms          ec2-13-210-48-133.ap-southeast-2.compute.amazonaws.com80              
+13.209.29.233   474 ms          ec2-13-209-29-233.ap-northeast-2.compute.amazonaws.com80              
+13.64.98.254    430 ms          [n/a]                   80              
+13.235.124.111  668 ms          [n/a]                   80              
+13.229.15.73    422 ms          [n/a]                   80              
+13.227.51.9     423 ms          [n/a]                   80              
+13.88.217.13    399 ms          [n/a]                   80              
+13.225.209.74   256 ms          [n/a]                   80              
+13.224.225.233  251 ms          [n/a]                   80              
+13.225.188.67   365 ms          server-13-225-188-67.yul62.r.cloudfront.net80              
+13.245.56.122   369 ms          [n/a]                   80              
+13.230.45.146   457 ms          [n/a]                   80              
+13.126.200.174  300 ms          ec2-13-126-200-174.ap-south-1.compute.amazonaws.com80              
+13.35.11.200    412 ms          [n/a]                   80              
+13.224.63.88    583 ms          server-13-224-63-88.cdg50.r.cloudfront.net80              
+13.35.78.66     351 ms          [n/a]                   80              
+13.227.136.110  1405 ms         server-13-227-136-110.bom50.r.cloudfront.net80              
+13.226.207.36   328 ms          server-13-226-207-36.dfw55.r.cloudfront.net80              
+13.234.201.26   463 ms          ec2-13-234-201-26.ap-south-1.compute.amazonaws.com80              
+13.32.11.227    203 ms          [n/a]                   80              
+13.82.111.176   363 ms          [n/a]                   80              
+13.107.162.251  221 ms          [n/a]                   80              
+13.249.239.207  796 ms          [n/a]                   80              
+13.224.106.252  212 ms          [n/a]                   80              
+13.124.100.86   470 ms          [n/a]                   80              
+13.249.191.165  422 ms          [n/a]                   80              
+13.110.67.38    292 ms          [n/a]                   80              
+13.235.253.53   303 ms          [n/a]                   80              
+13.224.227.90   248 ms          [n/a]                   80              
+13.111.209.238  449 ms          [n/a]                   80              
+13.211.217.129  1201 ms         ec2-13-211-217-129.ap-southeast-2.compute.amazonaws.com80              
+13.225.97.50    503 ms          [n/a]                   80              
+13.235.16.87    335 ms          ec2-13-235-16-87.ap-south-1.compute.amazonaws.com80              
+13.33.113.24    1025 ms         [n/a]                   80              
+13.227.167.26   344 ms          [n/a]                   80              
+13.234.17.184   391 ms          [n/a]                   80              
+13.249.186.15   378 ms          server-13-249-186-15.bos50.r.cloudfront.net80              
+13.237.175.47   605 ms          [n/a]                   80              
+13.57.33.104    685 ms          [n/a]                   465             
+13.234.142.45   701 ms          [n/a]                   80              
+13.224.79.39    318 ms          server-13-224-79-39.man50.r.cloudfront.net80              
+13.32.46.9      486 ms          server-13-32-46-9.phx50.r.cloudfront.net80              
+13.35.68.10     452 ms          [n/a]                   80              
+13.115.7.155    447 ms          [n/a]                   80              
+13.32.153.40    344 ms          [n/a]                   80              
+13.32.252.214   670 ms          [n/a]                   80              
+13.48.135.104   563 ms          ec2-13-48-135-104.eu-north-1.compute.amazonaws.com80              
+13.213.28.20    914 ms          ec2-13-213-28-20.ap-southeast-1.compute.amazonaws.com80              
+13.113.1.179    789 ms          [n/a]                   80              
+13.109.184.147  266 ms          [n/a]                   80              
+13.245.122.222  815 ms          [n/a]                   80              
+13.227.114.180  1015 ms         [n/a]                   80              
+13.91.224.135   721 ms          [n/a]                   80              
+13.54.247.168   469 ms          [n/a]                   80              
+13.224.126.87   810 ms          server-13-224-126-87.hio51.r.cloudfront.net80              
+13.225.97.179   410 ms          [n/a]                   80              
+13.236.129.26   971 ms          [n/a]                   80              
+13.226.67.231   403 ms          [n/a]                   80              
+13.54.152.229   635 ms          ec2-13-54-152-229.ap-southeast-2.compute.amazonaws.com80              
+13.33.177.221   454 ms          [n/a]                   80              
+13.36.171.220   254 ms          [n/a]                   80              
+13.33.65.176    296 ms          server-13-33-65-176.phx50.r.cloudfront.net80              
+13.111.134.140  313 ms          click.notifications.nestle.fi80              
+13.127.121.124  379 ms          [n/a]                   80              
+13.249.142.139  453 ms          server-13-249-142-139.ord51.r.cloudfront.net80              
+13.56.88.228    1084 ms         ec2-13-56-88-228.us-west-1.compute.amazonaws.com80              
+13.127.151.230  1115 ms         ec2-13-127-151-230.ap-south-1.compute.amazonaws.com80              
+13.33.74.164    353 ms          server-13-33-74-164.ewr52.r.cloudfront.net80              
+13.109.210.171  306 ms          [n/a]                   80              
+13.84.42.146    313 ms          [n/a]                   80              
+13.89.111.18    352 ms          [n/a]                   80              
+13.250.89.152   1087 ms         [n/a]                   80              
+13.125.239.150  446 ms          [n/a]                   80              
+13.115.173.207  463 ms          [n/a]                   80              
+13.51.8.220     290 ms          [n/a]                   80              
+13.74.198.15    185 ms          [n/a]                   80              
+13.212.216.94   483 ms          [n/a]                   80              
+13.224.48.87    338 ms          [n/a]                   80              
+13.55.47.237    505 ms          [n/a]                   80              
+13.33.138.88    286 ms          [n/a]                   80              
+13.226.1.92     273 ms          [n/a]                   80              
+13.226.136.150  327 ms          [n/a]                   80              
+13.227.8.201    282 ms          [n/a]                   80              
+13.54.216.201   1082 ms         ec2-13-54-216-201.ap-southeast-2.compute.amazonaws.com80              
+13.59.37.18     979 ms          [n/a]                   80              
+13.224.32.137   371 ms          server-13-224-32-137.yto50.r.cloudfront.net80              
+13.35.86.14     307 ms          server-13-35-86-14.bos50.r.cloudfront.net80              
+13.125.49.1     774 ms          [n/a]                   80              
+13.234.169.129  917 ms          ec2-13-234-169-129.ap-south-1.compute.amazonaws.com80              
+13.79.246.116   1251 ms         [n/a]                   80              
+13.244.208.238  946 ms          ec2-13-244-208-238.af-south-1.compute.amazonaws.com80              
+13.94.105.78    234 ms          [n/a]                   80              
+13.58.16.165    286 ms          [n/a]                   80              
+13.58.12.170    836 ms          ec2-13-58-12-170.us-east-2.compute.amazonaws.com80              
+13.225.25.125   406 ms          server-13-225-25-125.cdg3.r.cloudfront.net80              
+13.78.82.181    462 ms          [n/a]                   80              
+13.114.19.88    423 ms          ec2-13-114-19-88.ap-northeast-1.compute.amazonaws.com80              
+13.227.216.139  338 ms          server-13-227-216-139.ams54.r.cloudfront.net80              
+13.59.46.9      290 ms          [n/a]                   80              
+13.35.94.10     359 ms          [n/a]                   80              
+13.249.72.131   633 ms          server-13-249-72-131.dfw53.r.cloudfront.net80              
+13.211.37.113   1491 ms         ec2-13-211-37-113.ap-southeast-2.compute.amazonaws.com80              
+13.249.12.101   177 ms          server-13-249-12-101.cdg53.r.cloudfront.net80              
+13.248.154.79   330 ms          [n/a]                   80              
+13.37.62.36     239 ms          [n/a]                   80              
+13.72.235.105   588 ms          [n/a]                   80              
+13.93.13.199    245 ms          [n/a]                   80              
+13.80.45.121    260 ms          [n/a]                   80              
+13.249.60.55    317 ms          [n/a]                   80              
+13.92.191.111   289 ms          [n/a]                   80              
+13.232.197.197  429 ms          [n/a]                   80              
+13.109.151.78   347 ms          dfw.4.0p10h0000008rloca2.00d80000000mazhea4.gslb.siteforce.com80              
+13.113.213.77   1553 ms         ec2-13-113-213-77.ap-northeast-1.compute.amazonaws.com80              
+13.233.191.219  500 ms          ec2-13-233-191-219.ap-south-1.compute.amazonaws.com80              
+13.230.95.129   875 ms          ec2-13-230-95-129.ap-northeast-1.compute.amazonaws.com80              
+13.249.123.236  329 ms          [n/a]                   80              
+13.35.67.116    509 ms          [n/a]                   80              
+13.249.22.78    599 ms          server-13-249-22-78.iah50.r.cloudfront.net80              
+13.58.16.178    269 ms          ec2-13-58-16-178.us-east-2.compute.amazonaws.com80              
+13.225.188.92   904 ms          server-13-225-188-92.yul62.r.cloudfront.net80              
+13.109.131.141  423 ms          [n/a]                   80              
+13.234.133.145  325 ms          [n/a]                   80              
+13.209.59.240   453 ms          [n/a]                   80              
+13.126.204.44   490 ms          ec2-13-126-204-44.ap-south-1.compute.amazonaws.com80              
+13.77.60.44     537 ms          [n/a]                   80              
+13.227.128.64   361 ms          [n/a]                   80              
+13.113.230.231  462 ms          ec2-13-113-230-231.ap-northeast-1.compute.amazonaws.com80              
+13.112.41.227   627 ms          [n/a]                   80              
+13.225.9.193    220 ms          server-13-225-9-193.lis50.r.cloudfront.net80              
+13.32.179.16    261 ms          server-13-32-179-16.iad66.r.cloudfront.net80              
+13.110.70.245   285 ms          dcl7-ncg1-c6-iad5.na206-ia5.salesforce.com80              
+13.226.14.206   314 ms          server-13-226-14-206.ord51.r.cloudfront.net80              
+13.230.23.14    522 ms          [n/a]                   80              
+13.224.156.19   863 ms          [n/a]                   80              
+13.233.104.66   761 ms          [n/a]                   80              
+13.231.159.189  1149 ms         ec2-13-231-159-189.ap-northeast-1.compute.amazonaws.com80              
+13.234.157.217  748 ms          [n/a]                   80              
+13.226.170.143  1010 ms         [n/a]                   80              
+13.234.189.12   294 ms          [n/a]                   80              
+13.126.37.55    914 ms          ec2-13-126-37-55.ap-south-1.compute.amazonaws.com80              
+13.232.248.139  392 ms          ec2-13-232-248-139.ap-south-1.compute.amazonaws.com80              
+13.244.65.188   374 ms          ec2-13-244-65-188.af-south-1.compute.amazonaws.com80,465          
+13.249.236.109  1073 ms         server-13-249-236-109.hyd50.r.cloudfront.net80              
+13.227.1.3      529 ms          [n/a]                   80              
+13.59.102.116   1494 ms         [n/a]                   80              
+13.33.155.160   388 ms          [n/a]                   80              
+13.59.98.241    394 ms          [n/a]                   80              
+13.226.132.108  175 ms          [n/a]                   80              
+13.226.207.83   351 ms          [n/a]                   80              
+13.227.145.95   307 ms          [n/a]                   80              
+13.78.230.53    391 ms          [n/a]                   80              
+13.225.244.78   192 ms          server-13-225-244-78.lis50.r.cloudfront.net80              
+13.82.224.153   432 ms          [n/a]                   80              
+13.92.98.42     757 ms          [n/a]                   80              
+13.126.161.34   1039 ms         [n/a]                   80              
+13.231.31.88    472 ms          ec2-13-231-31-88.ap-northeast-1.compute.amazonaws.com80              
+13.226.31.62    1288 ms         server-13-226-31-62.ewr53.r.cloudfront.net80              
+13.226.255.87   424 ms          server-13-226-255-87.lax50.r.cloudfront.net80              
+13.112.190.181  470 ms          ec2-13-112-190-181.ap-northeast-1.compute.amazonaws.com80              
+13.115.238.65   535 ms          [n/a]                   80              
+13.225.14.23    272 ms          server-13-225-14-23.lis50.r.cloudfront.net80              
+13.230.158.99   523 ms          [n/a]                   80              
+13.67.141.62    336 ms          [n/a]                   80              
+13.81.208.50    340 ms          [n/a]                   80              
+13.82.130.242   318 ms          [n/a]                   80              
+13.249.181.124  228 ms          server-13-249-181-124.bos50.r.cloudfront.net80              
+13.91.37.203    429 ms          [n/a]                   80              
+13.227.75.110   344 ms          [n/a]                   80              
+13.33.30.176    1140 ms         server-13-33-30-176.sin2.r.cloudfront.net80              
+13.227.7.144    1198 ms         server-13-227-7-144.bog50.r.cloudfront.net80              
+13.236.51.58    478 ms          [n/a]                   80              
+13.234.168.42   387 ms          ec2-13-234-168-42.ap-south-1.compute.amazonaws.com80              
+13.249.78.215   1383 ms         server-13-249-78-215.dfw53.r.cloudfront.net80              
+13.32.18.90     351 ms          server-13-32-18-90.fra56.r.cloudfront.net80              
+13.226.48.216   858 ms          server-13-226-48-216.mia3.r.cloudfront.net80              
+13.109.154.16   358 ms          [n/a]                   80              
+13.224.74.1     213 ms          server-13-224-74-1.man50.r.cloudfront.net80              
+13.227.157.251  200 ms          server-13-227-157-251.muc51.r.cloudfront.net80              
+13.210.222.217  1179 ms         [n/a]                   80              
+13.249.222.128  420 ms          [n/a]                   80              
+13.224.45.187   1075 ms         [n/a]                   80              
+13.56.46.122    333 ms          ec2-13-56-46-122.us-west-1.compute.amazonaws.com80              
+13.126.57.253   413 ms          [n/a]                   80              
+13.225.227.226  771 ms          [n/a]                   80              
+13.236.168.169  1041 ms         ec2-13-236-168-169.ap-southeast-2.compute.amazonaws.com80              
+13.245.200.68   734 ms          [n/a]                   80              
+13.249.159.229  946 ms          server-13-249-159-229.nrt51.r.cloudfront.net80              
+13.56.47.114    323 ms          ec2-13-56-47-114.us-west-1.compute.amazonaws.com80              
+13.225.52.142   353 ms          [n/a]                   80              
+13.32.122.33    294 ms          [n/a]                   80              
+13.225.4.219    417 ms          server-13-225-4-219.sin52.r.cloudfront.net80              
+13.224.95.161   252 ms          [n/a]                   80              
+13.33.167.238   338 ms          [n/a]                   80              
+13.209.56.225   1384 ms         ec2-13-209-56-225.ap-northeast-2.compute.amazonaws.com80              
+13.227.107.213  1357 ms         [n/a]                   80              
+13.58.167.212   621 ms          ec2-13-58-167-212.us-east-2.compute.amazonaws.com80              
+13.249.84.156   889 ms          [n/a]                   80              
+13.224.191.231  651 ms          server-13-224-191-231.fra2.r.cloudfront.net80              
+13.227.199.132  319 ms          [n/a]                   80              
+13.225.76.176   308 ms          [n/a]                   80              
+13.125.131.130  431 ms          ec2-13-125-131-130.ap-northeast-2.compute.amazonaws.com80              
+13.233.235.219  355 ms          [n/a]                   80              
+13.56.93.111    482 ms          [n/a]                   80              
+13.235.118.155  309 ms          [n/a]                   80              
+13.92.185.75    457 ms          [n/a]                   80              
+13.51.212.148   738 ms          ec2-13-51-212-148.eu-north-1.compute.amazonaws.com80              
+13.224.140.63   764 ms          [n/a]                   80              
+13.224.196.45   241 ms          server-13-224-196-45.fra2.r.cloudfront.net80              
+13.51.212.254   198 ms          ec2-13-51-212-254.eu-north-1.compute.amazonaws.com80              
+13.249.141.245  263 ms          [n/a]                   80              
+13.111.226.222  275 ms          pages.alumni.umflint.edu80              
+13.238.230.203  509 ms          [n/a]                   80              
+13.115.177.15   951 ms          [n/a]                   80              
+13.224.67.104   195 ms          [n/a]                   80              
+13.32.18.158    235 ms          [n/a]                   80              
+13.227.93.190   629 ms          [n/a]                   80              
+13.32.37.103    571 ms          [n/a]                   80              
+13.33.206.30    192 ms          [n/a]                   80              
+13.56.186.177   524 ms          [n/a]                   80              
+13.249.190.230  261 ms          server-13-249-190-230.bos50.r.cloudfront.net80              
+13.55.10.45     779 ms          [n/a]                   80              
+13.232.6.15     359 ms          [n/a]                   80              
+13.234.208.45   475 ms          [n/a]                   80              
+13.33.30.106    505 ms          [n/a]                   80              
+13.212.10.107   1149 ms         [n/a]                   80              
+13.57.114.58    325 ms          [n/a]                   80              
+13.224.211.220  765 ms          server-13-224-211-220.phl50.r.cloudfront.net80              
+13.109.210.92   353 ms          [n/a]                   80              
+13.33.120.199   1699 ms         [n/a]                   80              
+13.126.6.90     786 ms          [n/a]                   80              
+13.249.15.216   228 ms          server-13-249-15-216.cdg53.r.cloudfront.net80              
+13.209.254.103  825 ms          [n/a]                   80              
+13.32.69.193    779 ms          [n/a]                   80              
+13.226.178.148  1043 ms         [n/a]                   80              
+13.234.219.7    734 ms          [n/a]                   80              
+13.32.241.189   257 ms          server-13-32-241-189.ams50.r.cloudfront.net80              
+13.33.95.119    422 ms          [n/a]                   80              
+13.245.84.160   475 ms          [n/a]                   80              
+13.78.58.245    413 ms          [n/a]                   80              
+13.84.55.110    282 ms          [n/a]                   80              
+13.33.84.47     315 ms          server-13-33-84-47.ewr52.r.cloudfront.net80              
+13.111.229.105  379 ms          click.email.lidl.fr     80              
+13.127.124.107  374 ms          ec2-13-127-124-107.ap-south-1.compute.amazonaws.com80              
+13.214.46.98    563 ms          [n/a]                   80              
+13.75.104.138   427 ms          [n/a]                   80              
+13.249.142.156  1470 ms         [n/a]                   80              
+13.227.150.224  187 ms          [n/a]                   80              
+13.249.251.101  687 ms          [n/a]                   80              
+13.236.220.212  971 ms          ec2-13-236-220-212.ap-southeast-2.compute.amazonaws.com80              
+13.224.189.60   215 ms          [n/a]                   80              
+13.32.21.50     192 ms          server-13-32-21-50.fra56.r.cloudfront.net80              
+13.82.42.100    239 ms          [n/a]                   80              
+13.32.88.249    927 ms          [n/a]                   80              
+13.48.42.183    1435 ms         [n/a]                   80              
+13.78.97.54     698 ms          [n/a]                   80              
+13.109.164.8    313 ms          [n/a]                   80              
+13.249.241.80   200 ms          [n/a]                   80              
+13.224.117.239  183 ms          [n/a]                   80              
+13.226.179.95   270 ms          server-13-226-179-95.dfw55.r.cloudfront.net80              
+13.52.190.144   422 ms          ec2-13-52-190-144.us-west-1.compute.amazonaws.com80              
+13.111.89.152   295 ms          pages.mc.banksa.com.au  80              
+13.33.139.94    231 ms          [n/a]                   80              
+13.224.181.6    1475 ms         server-13-224-181-6.syd1.r.cloudfront.net80              
+13.52.87.42     423 ms          [n/a]                   80              
+13.224.14.211   316 ms          [n/a]                   80              
+13.35.75.185    777 ms          server-13-35-75-185.bos50.r.cloudfront.net80              
+13.127.111.29   428 ms          [n/a]                   80              
+13.224.63.144   169 ms          [n/a]                   80              
+13.234.163.11   285 ms          ec2-13-234-163-11.ap-south-1.compute.amazonaws.com80              
+13.227.216.206  736 ms          [n/a]                   80              
+13.32.126.144   503 ms          server-13-32-126-144.per50.r.cloudfront.net80              
+13.89.110.66    272 ms          [n/a]                   80              
+13.35.116.59    301 ms          [n/a]                   80              
+13.95.160.217   252 ms          [n/a]                   80              
+13.113.51.35    1092 ms         [n/a]                   80              
+13.227.104.27   1440 ms         server-13-227-104-27.gru50.r.cloudfront.net80              
+13.51.144.154   576 ms          [n/a]                   80              
+13.227.69.166   1476 ms         [n/a]                   80              
+13.76.7.193     427 ms          [n/a]                   80              
+13.110.197.225  231 ms          click.emails.pajamagram.com80              
+13.249.47.106   320 ms          [n/a]                   80              
+13.209.68.188   535 ms          ec2-13-209-68-188.ap-northeast-2.compute.amazonaws.com80              
+13.80.241.174   204 ms          [n/a]                   80              
+13.126.238.129  471 ms          [n/a]                   80              
+13.226.163.79   246 ms          [n/a]                   80              
+13.227.90.52    980 ms          [n/a]                   80              
+13.226.247.55   850 ms          [n/a]                   80              
+13.35.4.160     421 ms          server-13-35-4-160.tpe52.r.cloudfront.net80              
+13.226.156.73   195 ms          [n/a]                   80              
+13.94.242.244   267 ms          [n/a]                   80              
+13.58.26.52     277 ms          ec2-13-58-26-52.us-east-2.compute.amazonaws.com80              
+13.226.134.134  230 ms          [n/a]                   80              
+13.227.203.170  1494 ms         [n/a]                   80              
+13.225.223.93   943 ms          server-13-225-223-93.jfk51.r.cloudfront.net80              
+13.110.58.179   297 ms          [n/a]                   80              
+13.224.32.234   335 ms          [n/a]                   80              
+13.234.49.202   337 ms          [n/a]                   80              
+13.226.250.155  1085 ms         server-13-226-250-155.lax50.r.cloudfront.net80              
+13.236.43.4     425 ms          [n/a]                   80              
+13.35.179.80    353 ms          [n/a]                   80              
+13.224.100.134  241 ms          server-13-224-100-134.zrh50.r.cloudfront.net80              
+13.35.3.78      407 ms          server-13-35-3-78.tpe52.r.cloudfront.net80              
+13.35.116.40    329 ms          [n/a]                   80              
+13.35.158.124   409 ms          [n/a]                   80              
+13.79.6.249     256 ms          [n/a]                   80              
+13.234.32.65    1534 ms         ec2-13-234-32-65.ap-south-1.compute.amazonaws.com80              
+13.32.216.83    594 ms          server-13-32-216-83.cdg50.r.cloudfront.net80              
+13.33.122.246   369 ms          [n/a]                   80              
+13.95.27.48     193 ms          [n/a]                   80              
+13.85.74.2      307 ms          [n/a]                   80              
+13.94.232.226   208 ms          [n/a]                   80              
+13.80.105.90    203 ms          [n/a]                   80              
+13.32.86.239    1467 ms         [n/a]                   80              
+13.35.35.118    470 ms          [n/a]                   80              
+13.238.117.228  1498 ms         [n/a]                   80              
+13.53.175.157   246 ms          [n/a]                   80              
+13.226.152.118  243 ms          [n/a]                   80              
+13.225.243.72   249 ms          [n/a]                   80              
+13.80.252.156   263 ms          [n/a]                   80              
+13.251.163.146  774 ms          [n/a]                   80              
+13.112.92.204   1159 ms         ec2-13-112-92-204.ap-northeast-1.compute.amazonaws.com80              
+13.66.218.35    388 ms          [n/a]                   80              
+13.124.255.215  457 ms          [n/a]                   80              
+13.228.167.39   462 ms          [n/a]                   80              
+13.228.52.188   400 ms          ec2-13-228-52-188.ap-southeast-1.compute.amazonaws.com80              
+13.210.243.29   961 ms          [n/a]                   80              
+13.126.177.49   289 ms          ec2-13-126-177-49.ap-south-1.compute.amazonaws.com80              
+13.210.64.94    511 ms          [n/a]                   80              
+13.227.246.148  319 ms          [n/a]                   80              
+13.235.130.145  1339 ms         [n/a]                   80              
+13.232.147.69   325 ms          [n/a]                   80              
+13.232.99.237   299 ms          [n/a]                   80              
+13.225.43.61    818 ms          server-13-225-43-61.dfw50.r.cloudfront.net80              
+13.249.202.193  687 ms          [n/a]                   80              
+13.226.239.174  337 ms          [n/a]                   80              
+13.224.210.164  933 ms          [n/a]                   80              
+13.249.197.77   694 ms          server-13-249-197-77.slc50.r.cloudfront.net80              
+13.224.250.237  1505 ms         server-13-224-250-237.sin52.r.cloudfront.net80              
+13.226.146.221  181 ms          [n/a]                   80              
+13.33.150.25    1458 ms         server-13-33-150-25.maa50.r.cloudfront.net80              
+13.249.63.219   1327 ms         server-13-249-63-219.iah50.r.cloudfront.net80              
+13.224.151.149  1169 ms         [n/a]                   80              
+13.229.72.240   441 ms          ec2-13-229-72-240.ap-southeast-1.compute.amazonaws.com80              
+13.35.158.196   1542 ms         server-13-35-158-196.tpe50.r.cloudfront.net80              
+13.82.136.92    282 ms          [n/a]                   80              
+13.35.154.146   467 ms          [n/a]                   80              
+13.232.73.176   346 ms          [n/a]                   80              
+13.225.22.187   594 ms          [n/a]                   80              
+13.87.81.229    281 ms          [n/a]                   80              
+13.35.182.190   899 ms          server-13-35-182-190.fjr50.r.cloudfront.net80              
+13.112.234.34   409 ms          ec2-13-112-234-34.ap-northeast-1.compute.amazonaws.com80              
+13.235.171.241  1277 ms         ec2-13-235-171-241.ap-south-1.compute.amazonaws.com80              
+13.224.25.6     1379 ms         [n/a]                   80              
+13.249.152.217  1437 ms         server-13-249-152-217.nrt51.r.cloudfront.net80              
+13.112.60.219   1437 ms         [n/a]                   80              
+13.33.36.198    407 ms          [n/a]                   80              
+13.35.235.21    1436 ms         [n/a]                   80              
+13.224.131.128  949 ms          server-13-224-131-128.lhr3.r.cloudfront.net80              
+13.75.48.14     1484 ms         [n/a]                   80              
+13.113.19.246   415 ms          [n/a]                   80              
+13.226.189.211  259 ms          [n/a]                   80              
+13.210.183.92   458 ms          ec2-13-210-183-92.ap-southeast-2.compute.amazonaws.com80              
+13.88.216.13    431 ms          [n/a]                   80              
+13.91.138.130   369 ms          [n/a]                   80              
+13.76.86.177    339 ms          [n/a]                   80              
+13.233.227.224  662 ms          ec2-13-233-227-224.ap-south-1.compute.amazonaws.com80              
+13.234.61.175   694 ms          ec2-13-234-61-175.ap-south-1.compute.amazonaws.com80              
+13.52.0.144     1072 ms         ec2-13-52-0-144.us-west-1.compute.amazonaws.com80              
+13.226.193.91   665 ms          [n/a]                   80              
+13.232.214.40   394 ms          [n/a]                   80              
+13.35.0.25      1549 ms         server-13-35-0-25.tpe52.r.cloudfront.net80              
+13.109.187.182  260 ms          [n/a]                   80              
+13.235.148.170  1471 ms         ec2-13-235-148-170.ap-south-1.compute.amazonaws.com80              
+13.126.87.105   397 ms          [n/a]                   80              
+13.225.114.119  536 ms          [n/a]                   80              
+13.235.14.12    1456 ms         ec2-13-235-14-12.ap-south-1.compute.amazonaws.com80              
+13.115.194.95   1464 ms         ec2-13-115-194-95.ap-northeast-1.compute.amazonaws.com80              
+13.238.99.213   430 ms          [n/a]                   80              
+13.225.236.147  581 ms          [n/a]                   80              
+13.57.120.31    486 ms          [n/a]                   80              
+13.81.80.127    165 ms          [n/a]                   80              
+13.225.2.53     1636 ms         [n/a]                   80              
+13.111.134.181  261 ms          [n/a]                   80              
+13.73.1.232     1428 ms         [n/a]                   80              
+13.33.49.116    192 ms          [n/a]                   80              
+13.210.90.240   507 ms          [n/a]                   80              
+13.127.237.108  443 ms          [n/a]                   80              
+13.227.36.190   272 ms          [n/a]                   80              
+13.214.109.222  1463 ms         [n/a]                   80              
+13.110.69.75    259 ms          [n/a]                   80              
+13.32.35.215    485 ms          [n/a]                   80              
+13.233.180.5    265 ms          [n/a]                   80              
+13.244.57.123   363 ms          [n/a]                   80              
+13.109.216.109  314 ms          [n/a]                   80              
+13.113.209.178  1406 ms         [n/a]                   80              
+13.226.62.173   385 ms          [n/a]                   80              
+13.48.118.79    1003 ms         [n/a]                   80,465          
+13.231.1.211    401 ms          [n/a]                   80              
+13.126.182.18   1712 ms         [n/a]                   80              
+13.227.191.64   901 ms          [n/a]                   80              
+13.249.187.218  476 ms          [n/a]                   80              
+13.227.194.238  421 ms          [n/a]                   80              
+13.124.69.81    465 ms          [n/a]                   80              
+13.36.80.135    784 ms          [n/a]                   80              
+13.225.29.118   549 ms          [n/a]                   80              
+13.226.25.54    1289 ms         [n/a]                   80              
+13.81.49.144    1169 ms         [n/a]                   80              
+13.227.13.42    976 ms          [n/a]                   80              
+13.212.62.223   955 ms          [n/a]                   80              
+13.211.154.235  1423 ms         [n/a]                   80              
+13.90.44.182    930 ms          [n/a]                   80              
+13.124.67.241   1460 ms         [n/a]                   80              
+13.75.235.36    435 ms          [n/a]                   80              
+13.112.40.151   387 ms          [n/a]                   80              
+13.32.254.208   1369 ms         [n/a]                   80              
+13.229.171.232  1484 ms         [n/a]                   80              
+13.126.190.240  1072 ms         [n/a]                   80              
+13.224.146.67   913 ms          [n/a]                   80              
